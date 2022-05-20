@@ -1,0 +1,11 @@
+{
+  "name": "svelte-cdk-adapter",
+  "version": "1.0.0",
+  "description": "An adapter to enable deploying server side rendered Svelte Kit websites onto AWS using the AWS CDK.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Kimber",
+  "license": "ISC"
+}
